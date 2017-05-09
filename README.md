@@ -1,0 +1,2 @@
+# diagnosisApp
+クソアプリノック②
